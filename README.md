@@ -11,6 +11,6 @@ Hi, I’m Jules 🧔🏻‍♂️
 
 - Buf: School web dev project
 - Cleen: School web dev project
-- My Profile V1: School web dev project
-- My Profile V2: Used V1 as a starter, V2 is an on-going side project with the same goal as V1 >> Having a Resume (among other things) website.
+- My Profile: Stared as a school web dev project (V0), evolved into an on-going side project with the same goal >> Having a Resume (among other things) personal website.
 - MachineLearningProject: School ML project, goal is to predict value of football players using different models.
+- APiR: Shiny App that displays data about C02 emissions and economic activities by continents (School project - Advanced Programming in R).
